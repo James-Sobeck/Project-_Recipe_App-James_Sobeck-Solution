@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RecipeApp/static/css/main.6b71d2f8.chunk.css",
-    "main.js": "/RecipeApp/static/js/main.70d82372.chunk.js",
-    "main.js.map": "/RecipeApp/static/js/main.70d82372.chunk.js.map",
-    "runtime-main.js": "/RecipeApp/static/js/runtime-main.630e2cf9.js",
-    "runtime-main.js.map": "/RecipeApp/static/js/runtime-main.630e2cf9.js.map",
-    "static/js/2.0d2e56b3.chunk.js": "/RecipeApp/static/js/2.0d2e56b3.chunk.js",
-    "static/js/2.0d2e56b3.chunk.js.map": "/RecipeApp/static/js/2.0d2e56b3.chunk.js.map",
-    "index.html": "/RecipeApp/index.html",
-    "precache-manifest.0eb2bcdaa7664255faf7e1eaf50235d2.js": "/RecipeApp/precache-manifest.0eb2bcdaa7664255faf7e1eaf50235d2.js",
-    "service-worker.js": "/RecipeApp/service-worker.js",
-    "static/css/main.6b71d2f8.chunk.css.map": "/RecipeApp/static/css/main.6b71d2f8.chunk.css.map",
-    "static/js/2.0d2e56b3.chunk.js.LICENSE.txt": "/RecipeApp/static/js/2.0d2e56b3.chunk.js.LICENSE.txt"
+    "main.css": "/Project-_Recipe_App-James_Sobeck-Solution/static/css/main.6b71d2f8.chunk.css",
+    "main.js": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/main.70d82372.chunk.js",
+    "main.js.map": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/main.70d82372.chunk.js.map",
+    "runtime-main.js": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/runtime-main.965507e0.js",
+    "runtime-main.js.map": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/runtime-main.965507e0.js.map",
+    "static/js/2.0d2e56b3.chunk.js": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/2.0d2e56b3.chunk.js",
+    "static/js/2.0d2e56b3.chunk.js.map": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/2.0d2e56b3.chunk.js.map",
+    "index.html": "/Project-_Recipe_App-James_Sobeck-Solution/index.html",
+    "precache-manifest.7c97c562570c2bb083973c671964a2ff.js": "/Project-_Recipe_App-James_Sobeck-Solution/precache-manifest.7c97c562570c2bb083973c671964a2ff.js",
+    "service-worker.js": "/Project-_Recipe_App-James_Sobeck-Solution/service-worker.js",
+    "static/css/main.6b71d2f8.chunk.css.map": "/Project-_Recipe_App-James_Sobeck-Solution/static/css/main.6b71d2f8.chunk.css.map",
+    "static/js/2.0d2e56b3.chunk.js.LICENSE.txt": "/Project-_Recipe_App-James_Sobeck-Solution/static/js/2.0d2e56b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.630e2cf9.js",
+    "static/js/runtime-main.965507e0.js",
     "static/js/2.0d2e56b3.chunk.js",
     "static/css/main.6b71d2f8.chunk.css",
     "static/js/main.70d82372.chunk.js"
