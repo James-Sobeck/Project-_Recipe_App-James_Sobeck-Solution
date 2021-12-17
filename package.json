@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://James-Sobeck.github.io/RecipeApp",
+  "homepage": "https://james-sobeck.github.io/Project-_Recipe_App-James_Sobeck-Solution/",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
